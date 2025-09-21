@@ -1,12 +1,12 @@
 # iRacing-VR-settings
-## PC Specs
+Using this "Ohne Speed mod" for the OpenXR Toolkit I basically shrink the vertical FOV by 50% which saves a lot of workload for the CPU and GPU.  
+Maybe this "helmet view" is not for everyone. But I can live with it (for now). ;)
+
+## My PC Specs
 Mainboard&emsp;GIGABYTE B660M DS3H DDR4  
 CPU&emsp;&emsp;&emsp;&emsp;Intel Core i7-14700  
 RAM&emsp;&emsp;&emsp;&ensp;&nbsp;32 GB DDR4 SDRAM  
 GPU&emsp;&emsp;&emsp;&emsp;Gainward RTX 4080 SUPER  
-
-Using this Ohne Speed mod for the OpenXR Toolkit I basically shrink the vertical FOV by 50% which saves a lot of workload for the CPU and GPU.  
-Maybe this "helmet view" is not for everyone. But I can live with it (for now). ;)
 
 ## NVIDIA Control Panel
 <img width="460" height="266" alt="image" src="https://github.com/user-attachments/assets/7bcad82c-0195-4fb4-a460-7b3dfb64d94a" />
