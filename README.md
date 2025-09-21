@@ -1,14 +1,14 @@
 # iRacing-VR-settings
-h2 PC Specs
+## PC Specs
 Mainboard  GIGABYTE B660M DS3H DDR4
 CPU        Intel Core i7-14700
 RAM        32 GB DDR4 SDRAM
 GPU        Gainward RTX 4080 SUPER
 
-##NVIDIA Control Panel
+## NVIDIA Control Panel
 
-##Pimax Play
+## Pimax Play
 
-##OpenXR Toolkit
+## OpenXR Toolkit
 
-##iRacing
+## iRacing
