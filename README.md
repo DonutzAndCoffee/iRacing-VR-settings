@@ -19,6 +19,11 @@ GPU&emsp;&emsp;&emsp;&emsp;Gainward RTX 4080 SUPER
 <img width="595" height="277" alt="image" src="https://github.com/user-attachments/assets/fbcb205d-ae39-491e-9dbf-97f514a83ded" />
 
 ## OpenXR Toolkit
+Toolkit -> https://mbucchia.github.io/OpenXR-Toolkit/
+Ohne Speed Mod -> https://drive.google.com/drive/folders/1lYT8i393Wnvp9L87ICHWdqkezZpujx2v
+Mod Tutorial -> https://www.youtube.com/watch?v=CieIQ7cE4CU
+OpenXR Toolkit configurator -> https://www.youtube.com/watch?v=JBf6IIIrK4A
+
 <img width="438" height="349" alt="image" src="https://github.com/user-attachments/assets/b099f90d-bfe2-4da4-be39-4555103a19c8" /><br>
 <img width="359" height="221" alt="image" src="https://github.com/user-attachments/assets/5043b281-b394-4556-9314-16bc18fece0b" /><br>
 <img width="360" height="118" alt="image" src="https://github.com/user-attachments/assets/0f86178d-120e-4211-ad25-5925f9ab9e8b" /><br>
@@ -27,3 +32,16 @@ GPU&emsp;&emsp;&emsp;&emsp;Gainward RTX 4080 SUPER
 <img width="354" height="292" alt="image" src="https://github.com/user-attachments/assets/94f2be7c-730b-4ca9-b106-2f15a95687fb" /><br>
 
 ## iRacing
+<img width="1039" height="803" alt="image" src="https://github.com/user-attachments/assets/cf908f31-3ad2-4747-88a5-b11299815b6c" /><br>
+<img width="1041" height="788" alt="image" src="https://github.com/user-attachments/assets/0cc19417-fbbf-43f4-be72-522f7c96bfb7" /><br>
+<img width="1028" height="772" alt="image" src="https://github.com/user-attachments/assets/17134fc9-c537-4a56-ab07-7411064016b6" /><br>
+<img width="1025" height="782" alt="image" src="https://github.com/user-attachments/assets/360d070e-a8c3-4467-9f89-8ddbfa9b14dc" /><br>
+<img width="1044" height="801" alt="image" src="https://github.com/user-attachments/assets/20e44b62-28ed-4244-b7d1-3f1789a678a0" /><br>
+<img width="1031" height="779" alt="image" src="https://github.com/user-attachments/assets/0578cfa2-3ab0-4619-ab98-1464abf2ee31" /><br>
+<img width="1013" height="780" alt="image" src="https://github.com/user-attachments/assets/b21383bc-9bba-44e5-9c16-c2b186606a05" />
+
+
+
+
+
+
