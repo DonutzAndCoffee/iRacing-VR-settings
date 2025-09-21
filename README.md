@@ -1,5 +1,5 @@
 # iRacing-VR-settings
-#2 PC Specs
+h2 PC Specs
 Mainboard  GIGABYTE B660M DS3H DDR4
 CPU        Intel Core i7-14700
 RAM        32 GB DDR4 SDRAM
