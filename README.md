@@ -1,9 +1,9 @@
 # iRacing-VR-settings
 ## PC Specs
-Mainboard&nbsp;GIGABYTE B660M DS3H DDR4  
-CPU&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel Core i7-14700  
-RAM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32 GB DDR4 SDRAM  
-GPU&nbsp;&nbsp;&nbsp;&nbsp;Gainward RTX 4080 SUPER  
+Mainboard&emsp;GIGABYTE B660M DS3H DDR4  
+CPU&emsp;&emsp;&emsp;Intel Core i7-14700  
+RAM&emsp;&emsp;&emsp;32 GB DDR4 SDRAM  
+GPU&emsp;&emsp;&emsp;Gainward RTX 4080 SUPER  
 
 ## NVIDIA Control Panel
 
